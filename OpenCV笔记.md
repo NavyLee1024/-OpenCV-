@@ -580,7 +580,7 @@ void CallBack_Demo(int, void*) {
 
 ​		方向梯度：在X或者Y方向的梯度计算
 
-
+![1555618026306](D:\NavyLeeGit\OpenCV_Note\assets\1555618026306.png)
 
 ### 	顶帽：
 
